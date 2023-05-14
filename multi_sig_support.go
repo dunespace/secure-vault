@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Add support for decentralized auctions
 // Optimize token minting flow
+// Enhance smart contract state changes monitoring
