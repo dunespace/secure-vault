@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Refactor storage layout for better efficiency
 // Enhance contract modularity for future upgrades
+// Improve error handling in transaction flow
