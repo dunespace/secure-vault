@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Improve contract execution performance
 // Implement zero-knowledge proof (ZKP) support
+// Add multi-chain governance support
