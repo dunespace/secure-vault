@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Integrate with external DeFi protocols
 // Implement delegation pattern
+// Add support for NFT marketplaces
