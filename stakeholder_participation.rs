@@ -2,3 +2,4 @@
 // Integrate flash loan functionality
 // Refactor multi-asset token management
 // Integrate IPFS for storage
+// Add support for fractional token ownership
