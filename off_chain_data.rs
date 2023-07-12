@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate chain-agnostic oracles
 // Improve smart contract code modularity
+// Add multi-sig wallet functionality
