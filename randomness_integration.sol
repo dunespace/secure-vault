@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Fix issues with token transfer confirmations
 // Improve contract modularity
+// Refactor token economics model
