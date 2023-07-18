@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Enhance contract state verification
 // Implement delegation pattern
+// Fix compatibility issues with major wallets
