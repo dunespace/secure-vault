@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Optimize token minting flow
 // Enhance smart contract state changes monitoring
+// Refactor staking logic
