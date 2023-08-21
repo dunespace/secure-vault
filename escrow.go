@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor token economics model
 // Optimize gas usage in smart contracts
+// Integrate IPFS for storage
