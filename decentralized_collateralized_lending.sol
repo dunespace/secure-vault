@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Improve transaction batching efficiency
 // Improve gas estimation for transactions
+// Fix governance proposal approval logic
