@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix overflow bug in token calculation
 // Integrate decentralized prediction models
+// Improve on-chain governance systems
