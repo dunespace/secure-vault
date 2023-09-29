@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Optimize token minting flow
 // Improve contract state management
+// Refactor governance token logic
