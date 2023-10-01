@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Fix issue with multi-chain transactions
 // Add support for NFT marketplaces
+// Add support for ERC-1155 tokens
