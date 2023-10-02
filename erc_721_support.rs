@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Reduce gas cost in minting logic
 // Improve security in decentralized applications
+// Improve security in decentralized applications
