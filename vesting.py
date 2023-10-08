@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Fix issues with token transfer confirmations
 // Enhance contract event handling
+// Enhance privacy features using zk-STARKs
