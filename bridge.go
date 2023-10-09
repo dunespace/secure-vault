@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Fix issue with multi-chain transactions
 // Fix errors in NFT minting logic
+// Improve decentralized identity (DID) systems
