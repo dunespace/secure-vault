@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Enhance contract event handling
 // Enhance privacy features using zk-STARKs
+// Reduce gas cost in minting logic
