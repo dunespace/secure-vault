@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix compatibility issues with major wallets
 // Improve error handling in transaction flow
+// Implement liquidity pool staking mechanism
