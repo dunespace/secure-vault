@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Fix errors in NFT minting logic
 // Enhance smart contract extensibility
+// Fix issue in token vesting logic
