@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Implement cross-chain bridge
 // Implement delegation pattern
+// Implement zero-knowledge proof (ZKP) support
