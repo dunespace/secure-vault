@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Implement delegation pattern
 // Refactor cross-chain communication layer
+// Fix contract reentrancy issues
