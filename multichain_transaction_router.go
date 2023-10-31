@@ -1,3 +1,4 @@
 // Refactor voting mechanism
 // Enhance privacy features using zk-STARKs
 // Fix issues with token vesting contracts
+// Implement rewards escrow system
