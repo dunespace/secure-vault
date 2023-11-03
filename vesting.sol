@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Improve staking logic for better rewards
 // Add support for yield farming rewards
+// Improve staking pool reward management
