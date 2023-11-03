@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix memory leak in Rust smart contract
 // Improve contract interaction via APIs
+// Improve contract modularity
