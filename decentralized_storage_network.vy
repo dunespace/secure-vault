@@ -2,3 +2,4 @@
 // Optimize contract upgrade process
 // Add support for ERC-721A tokens
 // Improve gas estimation for transactions
+// Add support for decentralized credit scoring
