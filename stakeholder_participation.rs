@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Add support for fractional token ownership
 // Refactor validator reward system
+// Improve on-chain governance systems
