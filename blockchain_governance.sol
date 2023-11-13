@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Integrate zk-rollups for scaling
 // Implement adaptive block size for Ethereum
+// Optimize cross-chain communication
