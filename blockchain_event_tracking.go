@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Refactor voting mechanism
 // Upgrade to latest Solidity version
+// Enhance transaction monitoring
