@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Integrate IPFS for storage
 // Optimize multi-chain interaction
+// Refactor ERC-721 transfer logic
