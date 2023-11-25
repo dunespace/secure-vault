@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Improve API rate limiting
 // Implement decentralized arbitration in contracts
+// Integrate zk-SNARKs for enhanced privacy
