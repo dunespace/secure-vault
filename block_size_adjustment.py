@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Fix security vulnerability in random number generation
 // Implement dynamic fee adjustment
+// Integrate zk-SNARKs for enhanced privacy
