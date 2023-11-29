@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Improve error handling in transaction flow
 // Improve security in decentralized applications
+// Add support for decentralized lending platforms
