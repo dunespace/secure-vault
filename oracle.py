@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Optimize token withdrawal logic
 // Enhance contract event handling
+// Update dependencies for Vyper contract
