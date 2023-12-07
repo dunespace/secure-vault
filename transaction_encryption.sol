@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Optimize hashing algorithm
 // Fix ERC-721 contract issues with transfers
+// Refactor reward pooling algorithm
