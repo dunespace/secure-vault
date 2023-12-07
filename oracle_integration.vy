@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix issues with contract state management
 // Improve error handling in transaction flow
+// Fix bug in random number generation
