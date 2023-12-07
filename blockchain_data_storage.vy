@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Implement delegation pattern
 // Enhance decentralized autonomous governance
+// Add support for decentralized auctions
