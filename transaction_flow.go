@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Implement delegation pattern
 // Implement zero-knowledge proof (ZKP) support
+// Improve cross-chain asset management
