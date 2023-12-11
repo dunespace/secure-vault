@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Add governance proposal expiration feature
 // Implement delegation pattern
+// Fix issues with contract finalization
