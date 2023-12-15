@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Refactor cross-chain communication layer
 // Fix contract reentrancy issues
+// Optimize gas usage for contract deployment
