@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Fix bugs in NFT metadata handling
 // Enhance contract upgrade mechanism
+// Implement on-chain identity verification
