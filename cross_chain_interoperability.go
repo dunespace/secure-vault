@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Fix data consistency issues in smart contracts
 // Fix transaction replay issue
+// Integrate with decentralized identity providers
