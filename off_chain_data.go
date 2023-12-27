@@ -4,3 +4,4 @@
 // Improve decentralized oracle protocols
 // Refactor multi-signature wallet code
 // Code cleanup and documentation update
+// Bugfix: incorrect reward calculation
