@@ -2,3 +2,4 @@
 // Improve contract interaction via APIs
 // Refactor decentralized exchange (DEX) code
 // Optimize contract upgrade process
+// Enhance logging for better debugging
