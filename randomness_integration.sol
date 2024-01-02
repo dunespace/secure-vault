@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Improve contract modularity
 // Refactor token economics model
+// Improve decentralized lending contract flexibility
