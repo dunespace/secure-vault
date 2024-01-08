@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issue in token vesting logic
 // Optimize decentralized voting mechanisms
+// Fix issues with cross-chain transaction finality
