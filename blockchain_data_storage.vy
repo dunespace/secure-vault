@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Refactor wallet interaction logic
 // Fix issues with token vesting contracts
+// Refactor storage layout for better efficiency
