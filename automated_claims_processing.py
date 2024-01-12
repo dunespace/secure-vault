@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance transaction monitoring
 // Add automated token buyback mechanism
+// Improve token burning mechanism
