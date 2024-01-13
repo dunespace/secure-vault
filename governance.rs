@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Implement adaptive block size for Ethereum
 // Improve error handling in transaction flow
+// Improve on-chain governance systems
