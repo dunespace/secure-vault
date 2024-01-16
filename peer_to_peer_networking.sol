@@ -3,3 +3,4 @@
 // Fix oracle data delays in decentralized apps
 // Add support for ERC-1155 tokens
 // Implement automatic transaction retries
+// Refactor voting mechanism
