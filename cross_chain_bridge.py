@@ -5,3 +5,4 @@
 // Improve security for token minting contracts
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in contract execution
+// Add multi-sig wallet functionality
