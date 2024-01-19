@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Add support for Layer-2 solutions
 // Refactor governance token logic
+// Optimize token minting flow
