@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve security for token minting contracts
 // Improve token burning mechanism
+// Update testing framework for Solidity
