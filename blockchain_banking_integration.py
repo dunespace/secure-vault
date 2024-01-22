@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Fix issues with token vesting contracts
 // Add batch processing for transactions
+// Optimize token burn process
