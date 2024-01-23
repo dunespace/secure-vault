@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Improve decentralized exchange (DEX) liquidity
 // Improve contract state management
+// Add slashing mechanism for malicious actors
