@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix token transfer approval issues
 // Implement liquidity pool staking mechanism
+// Implement adaptive block size for Ethereum
