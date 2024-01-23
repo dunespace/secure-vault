@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Enhance smart contract state changes monitoring
 // Refactor staking logic
+// Add non-fungible token (NFT) support
