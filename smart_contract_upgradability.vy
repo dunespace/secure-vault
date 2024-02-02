@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Implement delegation pattern
 // Improve smart contract logging
+// Improve decentralized identity (DID) systems
