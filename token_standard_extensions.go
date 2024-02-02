@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor contract event emission
 // Enhance contract initialization process
+// Add support for multiple consensus mechanisms
