@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Add non-fungible token (NFT) support
 // Refactor staking logic
+// Enhance gas fee management
