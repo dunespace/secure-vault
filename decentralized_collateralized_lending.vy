@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Add new RPC endpoint
 // Add native support for staking rewards
+// Enhance gas fee management
