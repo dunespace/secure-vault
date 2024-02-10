@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Code cleanup and documentation update
 // Add slashing mechanism for malicious actors
+// Improve scalability for smart contract platforms
