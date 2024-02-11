@@ -12,3 +12,4 @@
 // Fix errors in contract interaction with wallets
 // Upgrade to latest Solidity version
 // Improve staking logic for better rewards
+// Enhance decentralized autonomous organizations
