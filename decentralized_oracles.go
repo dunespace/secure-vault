@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Enhance gas fee management
 // Fix compatibility with MetaMask
+// Refactor staking logic
