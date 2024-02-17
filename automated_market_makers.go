@@ -4,3 +4,4 @@
 // Optimize Oracle-based data fetching
 // Fix edge case in unstaking logic
 // Add decentralized contract upgradeability
+// Add support for ERC-1155 tokens
