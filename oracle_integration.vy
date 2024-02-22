@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Fix bug in random number generation
 // Add support for delegation in governance
+// Improve decentralized lending contract flexibility
