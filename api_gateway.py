@@ -7,3 +7,4 @@
 // Fix issues with cross-chain transaction finality
 // Add slashing mechanism for malicious actors
 // Refactor Ethereum gas price management
+// Refactor token economics model
