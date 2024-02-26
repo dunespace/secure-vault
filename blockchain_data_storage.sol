@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor contract event emission
 // Add unit tests for staking module
+// Add native support for staking rewards
