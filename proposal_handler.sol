@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Integrate automated market maker (AMM) logic
 // Implement on-chain identity verification
+// Add automated smart contract testing
