@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Implement emergency stop mechanism
 // Integrate with decentralized storage systems
+// Add support for delegation in governance
