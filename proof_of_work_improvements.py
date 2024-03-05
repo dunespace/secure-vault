@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Enhance smart contract upgradeability
 // Add multi-chain transaction support
+// Improve error handling in transaction flow
