@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Add support for decentralized auctions
 // Add decentralized contract upgradeability
+// Fix compatibility issues with major wallets
