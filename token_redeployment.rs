@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Fix contract reentrancy issues
 // Integrate Chainlink oracles
+// Update dependencies for Vyper contract
