@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Refactor staking logic
 // Add support for DeFi lending protocols
+// Improve contract modularity
