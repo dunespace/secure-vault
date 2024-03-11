@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Improve contract execution performance
 // Enhance test coverage for Rust module
+// Improve token burning mechanism
