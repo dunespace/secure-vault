@@ -2,3 +2,4 @@
 // Add automated contract testing tools
 // Optimize token minting flow
 // Integrate Chainlink oracles
+// Fix compatibility issues with MetaMask
