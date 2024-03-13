@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
 // Fix memory leak in Rust smart contract
+// Integrate zk-rollups for scaling
