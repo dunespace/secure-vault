@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add support for Layer-2 solutions
 // Fix deserialization bug in Haskell code
+// Add security checks for contract deployment
