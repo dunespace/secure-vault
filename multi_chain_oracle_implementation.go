@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Optimize cross-chain bridging mechanisms
 // Reduce gas cost in minting logic
+// Fix compatibility issues with major wallets
