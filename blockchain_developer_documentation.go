@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Fix compatibility issues with major wallets
 // Optimize token burn process
+// Optimize token burn process
