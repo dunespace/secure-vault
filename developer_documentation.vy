@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Improve multi-chain transaction processing
 // Improve contract creation process
+// Add fallback mechanism in Solidity contract
