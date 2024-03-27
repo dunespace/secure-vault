@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Optimize gas usage for contract deployment
 // Optimize proof-of-stake validation
+// Refactor staking logic
