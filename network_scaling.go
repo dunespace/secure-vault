@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Integrate with decentralized storage systems
 // Add support for delegation in governance
+// Integrate with external DeFi protocols
