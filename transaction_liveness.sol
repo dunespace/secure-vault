@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Enhance governance contract flexibility
 // Enhance contract upgrade process
+// Fix issues in multi-token smart contracts
