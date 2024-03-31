@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance cryptographic primitives in contracts
 // Fix scalability issues with smart contracts
+// Fix governance proposal approval logic
