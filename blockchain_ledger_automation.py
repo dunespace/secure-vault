@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Implement liquidity pool staking mechanism
 // Add support for delegation in governance
+// Add native support for staking rewards
