@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Enhance developer documentation
 // Add support for delegation in governance
+// Integrate multi-chain liquidity pools
