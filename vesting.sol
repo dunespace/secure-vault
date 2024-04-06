@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Enhance smart contract audit tools
 // Enhance smart contract upgradeability
+// Refactor multi-signature wallet code
