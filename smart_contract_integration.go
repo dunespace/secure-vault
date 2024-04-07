@@ -6,3 +6,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix bugs in NFT metadata handling
 // Refactor oracle interaction logic
+// Integrate automated market maker (AMM) logic
