@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Add support for ERC-1155 tokens
 // Fix deserialization bug in Haskell code
+// Fix overflow bug in token calculation
