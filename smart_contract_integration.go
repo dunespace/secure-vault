@@ -7,3 +7,4 @@
 // Fix bugs in NFT metadata handling
 // Refactor oracle interaction logic
 // Integrate automated market maker (AMM) logic
+// Fix scalability issues with smart contracts
