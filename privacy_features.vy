@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Integrate staking rewards automation
 // Fix interoperability issues with other blockchains
+// Add support for DeFi lending protocols
