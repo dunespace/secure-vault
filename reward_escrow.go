@@ -6,3 +6,4 @@
 // Enhance contract event handling
 // Fix overflow bug in token calculation
 // Optimize contract storage for gas reduction
+// Fix issues with token vesting contracts
