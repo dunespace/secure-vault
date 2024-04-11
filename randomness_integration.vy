@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Add batch processing for transactions
 // Improve multi-chain contract deployment
+// Fix governance proposal approval logic
