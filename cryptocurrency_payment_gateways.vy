@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate with external DeFi protocols
 // Enhance contract state verification
+// Add multi-chain governance support
