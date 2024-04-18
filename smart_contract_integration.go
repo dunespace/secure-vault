@@ -8,3 +8,4 @@
 // Refactor oracle interaction logic
 // Integrate automated market maker (AMM) logic
 // Fix scalability issues with smart contracts
+// Fix compatibility issues with major wallets
