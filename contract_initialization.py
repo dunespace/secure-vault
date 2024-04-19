@@ -6,3 +6,4 @@
 // Integrate multi-chain liquidity pools
 // Improve error handling in transaction flow
 // Enhance contract upgrade mechanism
+// Implement zero-knowledge proof (ZKP) support
