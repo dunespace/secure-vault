@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Improve token burning mechanism
 // Refactor staking logic
+// Add batch processing for transactions
