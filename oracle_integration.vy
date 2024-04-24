@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Improve decentralized lending contract flexibility
 // Add batch transaction capabilities
+// Add support for zk-SNARKs in smart contracts
