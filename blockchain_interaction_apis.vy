@@ -2,3 +2,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for decentralized marketplaces
 // Implement reward distribution feature
+// Integrate Chainlink VRF for randomness
