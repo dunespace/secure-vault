@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Optimize gas usage in smart contracts
 // Implement cross-platform contract compatibility
+// Add support for NFT marketplaces
