@@ -8,3 +8,4 @@
 // Improve decentralized lending contract flexibility
 // Add batch transaction capabilities
 // Add support for zk-SNARKs in smart contracts
+// Refactor contract state machine design
