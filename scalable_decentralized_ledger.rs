@@ -4,3 +4,4 @@
 // Integrate multi-chain liquidity pools
 // Add support for ERC-1155 tokens
 // Fix issues with contract finalization
+// Add support for zk-SNARKs in smart contracts
