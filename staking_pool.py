@@ -7,3 +7,4 @@
 // Add support for decentralized credit scoring
 // Add support for ERC-721A tokens
 // Improve smart contract logging
+// Fix interoperability issues with other blockchains
