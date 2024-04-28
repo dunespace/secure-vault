@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Implement contract function batching
 // Integrate zk-rollups for scaling
+// Update smart contract tests
