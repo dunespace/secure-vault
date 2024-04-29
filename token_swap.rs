@@ -4,3 +4,4 @@
 // Add gas optimization features for smart contracts
 // Add support for multi-signature wallet contracts
 // Improve decentralized identity (DID) systems
+// Refactor contract to use EIP-712 signatures
