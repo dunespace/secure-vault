@@ -3,3 +3,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Improve staking logic for better rewards
 // Refactor decentralized exchange (DEX) code
+// Add support for multiple consensus mechanisms
