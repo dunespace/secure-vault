@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve API rate limiting
 // Integrate zk-rollups for scaling
+// Refactor storage layout for better efficiency
