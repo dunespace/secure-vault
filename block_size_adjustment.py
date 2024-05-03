@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Fix scalability issues with smart contracts
 // Fix governance proposal approval logic
+// Add support for ERC-721A tokens
