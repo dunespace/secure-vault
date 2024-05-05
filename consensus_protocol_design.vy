@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Refactor contract state machine design
 // Optimize gas usage for contract deployment
+// Add governance proposal expiration feature
