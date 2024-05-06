@@ -3,3 +3,4 @@
 // Optimize token burn process
 // Enhance contract upgrade process
 // Optimize gas cost in function execution
+// Add support for Layer-2 solutions
