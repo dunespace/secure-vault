@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Enhance governance contract flexibility
 // Refactor contract state machine design
+// Optimize token burn process
