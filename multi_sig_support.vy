@@ -6,3 +6,4 @@
 // Optimize Oracle-based data fetching
 // Fix bugs in NFT metadata handling
 // Implement rewards escrow system
+// Add governance proposal expiration feature
