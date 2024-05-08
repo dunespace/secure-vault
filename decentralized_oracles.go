@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Fix compatibility with MetaMask
 // Refactor staking logic
+// Add support for decentralized lending platforms
