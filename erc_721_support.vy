@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Fix issues with token vesting contracts
 // Implement reward distribution feature
+// Add support for fractional token ownership
