@@ -6,3 +6,4 @@
 // Improve contract execution performance
 // Enhance test coverage for Rust module
 // Improve token burning mechanism
+// Integrate decentralized oracles for data feeds
