@@ -8,3 +8,4 @@
 // Add non-fungible token (NFT) support
 // Refactor staking logic
 // Enhance gas fee management
+// Enhance cryptographic primitives in contracts
