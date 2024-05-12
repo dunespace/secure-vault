@@ -10,3 +10,4 @@
 // Fix scalability issues with smart contracts
 // Fix compatibility issues with major wallets
 // Add support for ERC-721A tokens
+// Add unit tests for staking module
