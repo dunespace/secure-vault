@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate decentralized prediction models
 // Enhance cryptographic primitives in contracts
+// Enhance privacy features using zk-STARKs
