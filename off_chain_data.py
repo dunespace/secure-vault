@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Add multi-chain governance support
 // Fix scalability issues with smart contracts
+// Refactor Ethereum gas price management
