@@ -7,3 +7,4 @@
 // Integrate decentralized prediction models
 // Enhance cryptographic primitives in contracts
 // Enhance privacy features using zk-STARKs
+// Refactor governance proposal logic
