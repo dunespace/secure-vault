@@ -4,3 +4,4 @@
 // Add native support for staking rewards
 // Enhance gas fee management
 // Fix issues with contract state management
+// Fix token transfer approval issues
