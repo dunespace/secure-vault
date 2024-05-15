@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Enhance logging for better debugging
 // Refactor storage layout for better efficiency
+// Enhance contract modularity
