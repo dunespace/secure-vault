@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Implement automated governance voting
 // Refactor governance token logic
+// Integrate zk-SNARKs for enhanced privacy
