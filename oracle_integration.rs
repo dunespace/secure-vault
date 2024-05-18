@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Refactor reward pooling algorithm
 // Fix governance proposal approval logic
+// Implement delegation pattern
