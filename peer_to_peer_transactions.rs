@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor token distribution mechanism
 // Add fallback mechanism in Solidity contract
+// Add support for ERC-721A tokens
