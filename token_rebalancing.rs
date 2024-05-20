@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Integrate with multi-token standards
 // Refactor decentralized governance structure
+// Integrate Chainlink oracles
