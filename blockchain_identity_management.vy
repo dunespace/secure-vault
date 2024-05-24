@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor contract event emission
 // Refactor staking logic
+// Integrate privacy-preserving mechanisms
