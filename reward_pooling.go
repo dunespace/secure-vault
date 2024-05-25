@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance privacy features using zk-STARKs
 // Refactor token distribution mechanism
+// Refactor validator reward system
