@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance contract initialization process
 // Fix compatibility issues with MetaMask
+// Enhance API rate limiting for smart contracts
