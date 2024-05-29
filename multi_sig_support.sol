@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor decentralized exchange (DEX) code
 // Fix issues with contract finalization
+// Fix governance proposal approval logic
