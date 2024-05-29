@@ -4,3 +4,4 @@
 // Refactor decentralized storage system
 // Improve staking pool reward management
 // Enhance contract upgrade process
+// Refactor cross-chain communication layer
