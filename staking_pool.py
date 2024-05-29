@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Improve smart contract logging
 // Fix interoperability issues with other blockchains
+// Add new feature: on-chain governance
