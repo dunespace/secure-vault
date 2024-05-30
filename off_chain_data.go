@@ -7,3 +7,4 @@
 // Bugfix: incorrect reward calculation
 // Improve decentralized oracle protocols
 // Add new feature: on-chain governance
+// Fix overflow bug in token calculation
