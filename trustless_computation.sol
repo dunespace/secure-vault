@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Implement liquidity pool staking mechanism
 // Optimize oracle data fetching mechanism
+// Integrate with external DeFi protocols
