@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix governance proposal approval logic
 // Implement delegation pattern
+// Improve gas estimation for transactions
