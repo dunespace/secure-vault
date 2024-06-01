@@ -9,3 +9,4 @@
 // Add batch transaction capabilities
 // Add support for zk-SNARKs in smart contracts
 // Refactor contract state machine design
+// Fix compatibility with MetaMask
