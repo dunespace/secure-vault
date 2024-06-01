@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Integrate Chainlink oracles
 // Fix compatibility issues with MetaMask
+// Fix errors in NFT minting logic
