@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Implement reward distribution feature
 // Enhance smart contract state changes monitoring
+// Add support for ERC-1155 tokens
