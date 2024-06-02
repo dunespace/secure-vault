@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Improve decentralized identity (DID) systems
 // Enhance test coverage for Rust module
+// Refactor token distribution mechanism
