@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add slashing mechanism for malicious actors
 // Improve decentralized oracle protocols
+// Improve gas estimation for transactions
