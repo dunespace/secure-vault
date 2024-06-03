@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Add batch processing for transactions
 // Add unit tests for staking module
+// Improve contract state management
