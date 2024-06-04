@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize storage for off-chain data
 // Implement time-locked contract execution
+// Refactor staking logic
