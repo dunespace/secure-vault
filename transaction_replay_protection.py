@@ -8,3 +8,4 @@
 // Enhance cryptographic primitives in contracts
 // Enhance privacy features using zk-STARKs
 // Refactor governance proposal logic
+// Add support for ERC-1155 tokens
