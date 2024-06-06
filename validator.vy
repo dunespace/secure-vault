@@ -12,3 +12,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add batch processing for transactions
 // Improve decentralized identity (DID) systems
+// Add support for NFT marketplaces
