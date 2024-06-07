@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Add native support for staking rewards
 // Add governance proposal expiration feature
+// Improve decentralized identity (DID) systems
