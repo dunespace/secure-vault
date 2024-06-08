@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize gas usage in contract execution
 // Integrate privacy-enhancing smart contracts
+// Refactor storage layout for better efficiency
