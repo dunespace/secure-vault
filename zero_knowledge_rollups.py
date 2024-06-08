@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Fix governance proposal approval logic
 // Enhance security checks
+// Improve contract modularity
