@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Implement zero-knowledge proof (ZKP) support
 // Add support for zk-SNARKs in smart contracts
+// Implement reward distribution feature
