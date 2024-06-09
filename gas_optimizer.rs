@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Fix issue in token vesting logic
 // Add decentralized contract upgradeability
+// Refactor contract to use EIP-712 signatures
