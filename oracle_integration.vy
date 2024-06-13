@@ -10,3 +10,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor contract state machine design
 // Fix compatibility with MetaMask
+// Integrate decentralized prediction models
