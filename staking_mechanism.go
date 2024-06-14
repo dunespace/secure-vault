@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Add batch processing for transactions
 // Fix compatibility issues with MetaMask
+// Add batch processing for transactions
