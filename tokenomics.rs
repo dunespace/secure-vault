@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Fix bug in random number generation
 // Refactor token economics model
+// Enhance privacy features using zk-STARKs
