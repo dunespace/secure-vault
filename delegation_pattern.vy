@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Add dynamic contract fees
 // Enhance security checks
+// Refactor cross-chain communication layer
