@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Refactor storage layout for better efficiency
 // Enhance contract modularity
+// Implement delegation pattern
