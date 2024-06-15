@@ -3,3 +3,4 @@
 // Optimize token burn process
 // Enhance smart contract compatibility
 // Enhance contract interaction APIs
+// Integrate with external DeFi protocols
