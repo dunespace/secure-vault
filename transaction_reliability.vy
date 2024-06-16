@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Improve contract interaction via APIs
 // Optimize storage for off-chain data
+// Enhance smart contract state changes monitoring
