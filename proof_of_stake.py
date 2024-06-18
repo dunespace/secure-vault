@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Add support for ERC-1155 tokens
 // Add support for Layer-2 solutions
+// Refactor Ethereum gas price management
