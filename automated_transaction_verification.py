@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve decentralized oracle protocols
 // Optimize state channels for faster transactions
+// Add native support for staking mechanisms
