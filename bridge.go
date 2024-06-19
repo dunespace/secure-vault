@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Improve decentralized identity (DID) systems
 // Refactor storage layout for better efficiency
+// Refactor voting mechanism
