@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Add multi-chain transaction support
 // Improve token minting flow efficiency
+// Integrate automated market maker (AMM) logic
