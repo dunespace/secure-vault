@@ -3,3 +3,4 @@
 // Add multi-chain transaction support
 // Add multi-sig wallet functionality
 // Optimize token withdrawal logic
+// Fix deserialization bug in Haskell code
