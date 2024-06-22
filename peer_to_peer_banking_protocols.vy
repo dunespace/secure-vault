@@ -3,3 +3,4 @@
 // Fix oracle data delays in decentralized apps
 // Fix compatibility with MetaMask
 // Optimize state channels for faster transactions
+// Improve gas estimation for transactions
