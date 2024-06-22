@@ -7,3 +7,4 @@
 // Fix bugs in NFT metadata handling
 // Implement rewards escrow system
 // Add governance proposal expiration feature
+// Fix errors in contract interaction with wallets
