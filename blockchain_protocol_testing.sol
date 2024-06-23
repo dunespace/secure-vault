@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Enhance cryptographic primitives in contracts
 // Integrate staking rewards automation
+// Enhance security checks
