@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Add support for decentralized credit scoring
 // Improve error handling in transaction flow
+// Improve contract modularity
