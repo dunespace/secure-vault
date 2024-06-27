@@ -6,3 +6,4 @@
 // Fix issues with contract state management
 // Fix token transfer approval issues
 // Fix memory optimization issues in contracts
+// Fix compatibility issues with major wallets
