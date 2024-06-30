@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Fix issues with gas optimization in smart contracts
 // Optimize token minting flow
+// Optimize state channels for faster transactions
