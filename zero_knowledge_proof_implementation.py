@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Fix interoperability issues with other blockchains
 // Fix vulnerability in decentralized finance protocols
+// Refactor staking logic
