@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Optimize gas usage in smart contracts
 // Optimize token burn process
+// Update smart contract tests
