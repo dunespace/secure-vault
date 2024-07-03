@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Add native support for staking mechanisms
 // Integrate with external blockchain networks
+// Refactor governance proposal logic
