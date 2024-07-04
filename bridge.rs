@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Improve on-chain governance systems
 // Improve multi-chain contract deployment
+// Add support for zk-SNARKs in smart contracts
