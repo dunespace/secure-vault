@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Improve cross-chain asset management
 // Optimize token minting flow
+// Refactor cross-chain communication layer
