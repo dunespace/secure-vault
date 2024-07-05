@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Enhance contract modularity for future upgrades
 // Integrate decentralized anonymous identity systems
+// Integrate IPFS for storage
