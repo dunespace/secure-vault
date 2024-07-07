@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Implement zero-knowledge proof (ZKP) support
 // Enhance contract upgrade process
+// Improve gas estimation for transactions
