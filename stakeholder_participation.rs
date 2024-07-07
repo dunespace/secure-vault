@@ -6,3 +6,4 @@
 // Refactor validator reward system
 // Improve on-chain governance systems
 // Optimize contract upgrade process
+// Optimize contract upgrade process
