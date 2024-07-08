@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Fix issues with token transfer confirmations
 // Refactor reward pooling algorithm
+// Improve staking logic for better rewards
