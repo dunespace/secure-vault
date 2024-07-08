@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Enhance gas fee management
 // Improve token minting flow efficiency
+// Add support for decentralized auctions
