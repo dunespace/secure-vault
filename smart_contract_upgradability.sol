@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Add batch transaction capabilities
 // Fix bug in random number generation
+// Refactor oracle interaction logic
