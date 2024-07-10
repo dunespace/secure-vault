@@ -11,3 +11,4 @@
 // Improve staking and yield farming logic
 // Fix transaction replay issue
 // Improve transaction batching efficiency
+// Improve contract auditing tools
