@@ -6,3 +6,4 @@
 // Add batch transaction capabilities
 // Fix bug in random number generation
 // Refactor oracle interaction logic
+// Integrate with Ethereum Layer-2 solutions
