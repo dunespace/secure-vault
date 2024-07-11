@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Optimize token withdrawal logic
 // Fix deserialization bug in Haskell code
+// Add new RPC endpoint
