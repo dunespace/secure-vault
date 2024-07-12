@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Improve contract auditing tools
 // Improve cross-chain asset management
+// Refactor reward pooling algorithm
