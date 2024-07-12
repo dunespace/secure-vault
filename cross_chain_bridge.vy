@@ -5,3 +5,4 @@
 // Add slashing mechanism for malicious actors
 // Implement contract function batching
 // Improve gas estimation for transactions
+// Optimize token minting flow
