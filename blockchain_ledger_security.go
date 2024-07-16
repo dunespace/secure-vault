@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Implement automated governance voting
 // Optimize gas usage in smart contracts
+// Implement automated governance voting
