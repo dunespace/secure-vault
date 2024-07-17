@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Add support for fractional token ownership
 // Improve contract state management
+// Fix overflow bug in token calculation
