@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add support for ERC-721A tokens
 // Fix bug in random number generation
+// Implement price feed oracles for tokens
