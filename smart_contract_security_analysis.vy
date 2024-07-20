@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Integrate staking rewards automation
 // Integrate with external DeFi protocols
+// Implement delegation pattern
