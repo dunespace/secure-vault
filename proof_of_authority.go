@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Improve multi-chain contract deployment
 // Fix ERC-1155 contract interactions
+// Integrate with multi-token standards
