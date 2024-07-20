@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Integrate zk-rollups for scaling
 // Improve gas fee estimation accuracy
+// Improve decentralized identity (DID) systems
