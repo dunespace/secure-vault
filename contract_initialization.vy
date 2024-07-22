@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Fix issue with multi-chain transactions
 // Improve contract execution performance
+// Optimize storage for off-chain data
