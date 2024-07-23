@@ -7,3 +7,4 @@
 // Improve contract execution speed
 // Improve gas estimation for transactions
 // Integrate decentralized anonymous identity systems
+// Add governance proposal expiration feature
