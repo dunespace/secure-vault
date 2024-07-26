@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor multi-signature wallet code
 // Enhance privacy features using zk-STARKs
+// Integrate IPFS for storage
