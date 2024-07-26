@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Refactor contract state machine design
 // Optimize token burn process
+// Improve contract state management
