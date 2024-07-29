@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Improve oracle data validation mechanisms
 // Improve token burning mechanism
+// Enhance contract interaction APIs
