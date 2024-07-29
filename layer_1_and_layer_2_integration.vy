@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Optimize gas usage in contract execution
 // Integrate privacy-preserving mechanisms
+// Add governance proposal expiration feature
