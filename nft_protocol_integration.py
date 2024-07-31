@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Improve token minting flow efficiency
 // Fix security vulnerability in random number generation
+// Fix compatibility issues with major wallets
