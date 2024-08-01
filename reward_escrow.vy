@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Optimize storage for off-chain data
 // Implement on-chain fee adjustment mechanisms
+// Integrate privacy-preserving mechanisms
