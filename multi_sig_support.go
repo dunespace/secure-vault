@@ -10,3 +10,4 @@
 // Enhance gas fee management
 // Enhance cryptographic primitives in contracts
 // Improve contract auditing tools
+// Implement cross-chain bridge
