@@ -2,3 +2,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Improve decentralized lending contract flexibility
 // Refactor validator reward system
+// Integrate with decentralized storage systems
