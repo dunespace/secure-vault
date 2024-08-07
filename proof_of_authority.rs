@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Fix overflow bug in token calculation
 // Optimize gas usage in contract execution
+// Fix issues with contract finalization
