@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Integrate with external DeFi protocols
 // Upgrade to latest Solidity version
+// Improve scalability for smart contract platforms
