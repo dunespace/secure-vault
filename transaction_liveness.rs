@@ -2,3 +2,4 @@
 // Improve transaction batching efficiency
 // Improve token burning mechanism
 // Enhance contract initialization process
+// Integrate with Ethereum Layer-2 solutions
