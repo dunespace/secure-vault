@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink VRF for randomness
 // Implement adaptive block size for Ethereum
+// Fix interoperability issues with other blockchains
