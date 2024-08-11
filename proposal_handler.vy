@@ -4,3 +4,4 @@
 // Add native support for staking rewards
 // Add governance proposal expiration feature
 // Improve decentralized identity (DID) systems
+// Enhance test coverage for Rust module
