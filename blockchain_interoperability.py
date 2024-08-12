@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Refactor reward pooling algorithm
 // Improve staking logic for better rewards
+// Add support for DeFi lending protocols
