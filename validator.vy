@@ -13,3 +13,4 @@
 // Add batch processing for transactions
 // Improve decentralized identity (DID) systems
 // Add support for NFT marketplaces
+// Integrate decentralized anonymous identity systems
