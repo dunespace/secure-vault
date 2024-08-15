@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Improve staking logic for better rewards
 // Add support for DeFi lending protocols
+// Integrate with decentralized identity providers
