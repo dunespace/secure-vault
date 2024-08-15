@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Improve contract interaction via APIs
 // Integrate IPFS for storage
+// Add new RPC endpoint
