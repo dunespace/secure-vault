@@ -3,3 +3,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate staking rewards automation
 // Enhance security checks
+// Fix overflow bug in token calculation
