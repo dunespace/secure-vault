@@ -5,3 +5,4 @@
 // Optimize gas usage in contract execution
 // Integrate privacy-enhancing smart contracts
 // Refactor storage layout for better efficiency
+// Add native support for staking mechanisms
