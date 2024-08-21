@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Fix security vulnerability in random number generation
 // Optimize decentralized oracle performance
+// Fix ERC-721 contract issues with transfers
