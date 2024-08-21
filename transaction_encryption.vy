@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Fix data consistency issues in smart contracts
 // Bugfix: incorrect reward calculation
+// Fix overflow bug in token calculation
