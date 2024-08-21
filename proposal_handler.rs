@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Optimize gas usage in smart contracts
 // Improve gas fee estimation accuracy
+// Add support for multi-signature wallet contracts
