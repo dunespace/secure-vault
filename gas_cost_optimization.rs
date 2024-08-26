@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Enhance privacy features using zk-STARKs
 // Refactor storage layout for better efficiency
+// Enhance smart contract compatibility
