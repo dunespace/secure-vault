@@ -6,3 +6,4 @@
 // Optimize gas cost in function execution
 // Optimize contract storage for gas reduction
 // Enhance privacy features using zk-STARKs
+// Enhance contract modularity
