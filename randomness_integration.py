@@ -8,3 +8,4 @@
 // Improve staking logic for better rewards
 // Bugfix: incorrect reward calculation
 // Improve cross-chain asset management
+// Improve API rate limiting
