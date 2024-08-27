@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Improve token burning mechanism
 // Code cleanup and documentation update
+// Fix interoperability issues with other blockchains
