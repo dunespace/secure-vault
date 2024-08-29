@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Refactor contract to use EIP-712 signatures
 // Optimize gas usage in smart contracts
+// Optimize storage for off-chain data
