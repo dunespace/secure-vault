@@ -5,3 +5,4 @@
 // Enhance security checks
 // Improve contract modularity
 // Enhance contract initialization process
+// Fix bugs in NFT metadata handling
