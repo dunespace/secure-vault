@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize storage for off-chain data
 // Enhance decentralized autonomous governance
+// Fix security vulnerability in random number generation
