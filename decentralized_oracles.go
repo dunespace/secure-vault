@@ -8,3 +8,4 @@
 // Add support for decentralized lending platforms
 // Refactor multi-asset token management
 // Refactor validator reward system
+// Add support for zk-SNARKs in smart contracts
