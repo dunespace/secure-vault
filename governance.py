@@ -7,3 +7,4 @@
 // Add multi-chain transaction support
 // Integrate decentralized anonymous identity systems
 // Optimize token withdrawal logic
+// Implement zero-knowledge proof (ZKP) support
