@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Add support for delegation in governance
 // Fix issue with multi-chain transactions
+// Refactor contract to use EIP-712 signatures
