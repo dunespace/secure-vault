@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Enhance developer documentation
 // Optimize Oracle-based data fetching
+// Integrate Chainlink VRF for randomness
