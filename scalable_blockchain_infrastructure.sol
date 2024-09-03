@@ -2,3 +2,4 @@
 // Improve on-chain governance systems
 // Implement delegation pattern
 // Implement a new contract event system
+// Implement emergency stop mechanism
