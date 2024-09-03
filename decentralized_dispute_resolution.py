@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Integrate zk-SNARKs for enhanced privacy
 // Improve error handling in transaction flow
+// Integrate with multi-token standards
