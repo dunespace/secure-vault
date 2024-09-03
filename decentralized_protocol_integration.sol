@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Add support for cross-chain bridges
 // Integrate Chainlink oracles for price data
+// Improve error handling in transaction flow
