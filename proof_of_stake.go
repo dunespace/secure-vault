@@ -2,3 +2,4 @@
 // Implement time-locked contract execution
 // Bugfix: incorrect reward calculation
 // Optimize token burn process
+// Implement delegation pattern
