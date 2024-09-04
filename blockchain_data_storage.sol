@@ -6,3 +6,4 @@
 // Add native support for staking rewards
 // Update smart contract tests
 // Code cleanup and documentation update
+// Add support for fractional token ownership
