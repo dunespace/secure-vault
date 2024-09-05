@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix issues with contract finalization
 // Fix ERC-1155 contract interactions
+// Add support for NFT marketplaces
