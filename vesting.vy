@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Enhance contract modularity for future upgrades
 // Add unit tests for staking module
+// Optimize contract storage for gas reduction
