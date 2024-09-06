@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Implement on-chain identity verification
 // Add multi-chain transaction support
+// Improve gas estimation for transactions
