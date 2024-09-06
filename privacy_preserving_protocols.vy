@@ -2,3 +2,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink VRF for randomness
 // Improve contract execution speed
+// Integrate flash loan functionality
