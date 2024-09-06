@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Enhance test coverage for Rust module
 // Integrate Chainlink oracles
+// Add multi-sig wallet functionality
