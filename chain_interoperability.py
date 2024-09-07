@@ -3,3 +3,4 @@
 // Add automated token buyback mechanism
 // Optimize token withdrawal logic
 // Integrate flash loan functionality
+// Integrate staking rewards automation
