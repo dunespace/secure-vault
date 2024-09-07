@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Implement a new contract event system
 // Fix bugs in multi-token systems
+// Fix issue in token vesting logic
