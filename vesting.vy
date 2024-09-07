@@ -7,3 +7,4 @@
 // Enhance contract modularity for future upgrades
 // Add unit tests for staking module
 // Optimize contract storage for gas reduction
+// Refactor multi-asset token management
