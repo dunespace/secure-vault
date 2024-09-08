@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Add support for fractional token ownership
 // Improve error handling in transaction flow
+// Add unit tests for staking module
