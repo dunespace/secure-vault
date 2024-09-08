@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Refactor decentralized storage system
 // Fix memory optimization issues in contracts
+// Improve contract interaction via APIs
