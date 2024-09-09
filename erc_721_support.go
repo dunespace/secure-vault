@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract state changes monitoring
 // Add support for yield farming rewards
+// Add new feature: on-chain governance
