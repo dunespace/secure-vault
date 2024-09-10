@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Improve contract interaction via APIs
 // Improve contract interaction via APIs
+// Optimize WASM compilation for Go contracts
