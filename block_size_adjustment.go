@@ -8,3 +8,4 @@
 // Implement on-chain identity verification
 // Add fallback mechanism in Solidity contract
 // Enhance contract upgrade process
+// Enhance test coverage for Rust module
