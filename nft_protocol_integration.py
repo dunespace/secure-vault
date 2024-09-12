@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Fix security vulnerability in random number generation
 // Fix compatibility issues with major wallets
+// Improve security for token minting contracts
