@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Enhance developer documentation
 // Add support for ERC-1155 tokens
+// Integrate Chainlink oracles
