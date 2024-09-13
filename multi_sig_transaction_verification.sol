@@ -7,3 +7,4 @@
 // Fix bugs in multi-token systems
 // Refactor multi-signature wallet code
 // Improve smart contract logging
+// Refactor contract event emission
