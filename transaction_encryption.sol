@@ -6,3 +6,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor reward pooling algorithm
 // Fix ERC-20 token interface bugs
+// Improve staking logic for better rewards
