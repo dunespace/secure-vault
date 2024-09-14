@@ -7,3 +7,4 @@
 // Fix contract reentrancy issues
 // Optimize gas usage for contract deployment
 // Refactor contract to use EIP-712 signatures
+// Enhance test coverage for Rust module
