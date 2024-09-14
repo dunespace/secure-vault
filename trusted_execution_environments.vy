@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Fix issues with gas optimization in smart contracts
 // Improve oracle data validation mechanisms
+// Add support for multiple consensus mechanisms
