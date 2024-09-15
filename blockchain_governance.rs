@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Integrate with multi-token standards
 // Refactor smart contract testing framework
+// Add support for yield farming rewards
