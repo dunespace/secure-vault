@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Add support for decentralized content distribution
 // Improve DApp transaction flow
+// Integrate Chainlink VRF for randomness
