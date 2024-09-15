@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Update testing framework for Solidity
 // Implement delegation pattern
+// Add support for DeFi lending protocols
