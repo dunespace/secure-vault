@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Fix issues with token vesting contracts
 // Enhance smart contract state changes monitoring
+// Fix compatibility issues with major wallets
