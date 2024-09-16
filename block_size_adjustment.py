@@ -9,3 +9,4 @@
 // Add support for ERC-721A tokens
 // Integrate decentralized anonymous identity systems
 // Enhance contract upgrade mechanism
+// Add new feature: on-chain governance
