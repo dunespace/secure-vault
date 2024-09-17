@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Improve cross-chain asset management
 // Fix edge case in unstaking logic
+// Integrate privacy-enhancing smart contracts
