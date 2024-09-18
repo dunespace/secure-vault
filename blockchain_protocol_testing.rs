@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Improve security for token minting contracts
 // Fix issues with token vesting contracts
+// Fix overflow bug in token calculation
