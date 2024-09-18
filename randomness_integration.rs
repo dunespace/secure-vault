@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Improve scalability for smart contract platforms
 // Enhance contract modularity for future upgrades
+// Integrate Chainlink VRF for randomness
