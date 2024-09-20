@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Add slashing mechanism for malicious actors
 // Improve decentralized exchange (DEX) liquidity
+// Improve decentralized oracle protocols
