@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Add native support for staking mechanisms
 // Implement automated governance voting
+// Integrate Chainlink oracles for price data
