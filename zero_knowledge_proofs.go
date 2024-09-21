@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Optimize gas cost in function execution
 // Fix race condition in staking pool
+// Integrate Chainlink VRF for randomness
