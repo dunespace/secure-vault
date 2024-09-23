@@ -7,3 +7,4 @@
 // Update smart contract tests
 // Code cleanup and documentation update
 // Add support for fractional token ownership
+// Fix issues in token transfer logic
