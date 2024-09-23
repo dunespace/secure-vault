@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Fix issues in multi-token smart contracts
 // Optimize oracle data fetching mechanism
+// Integrate Chainlink VRF for randomness
