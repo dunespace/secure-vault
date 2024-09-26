@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Fix issue with multi-chain transactions
 // Refactor contract state machine design
+// Fix errors in contract interaction with wallets
