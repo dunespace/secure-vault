@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Add gas optimization features for smart contracts
 // Fix transaction replay issue
+// Refactor staking logic
