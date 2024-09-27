@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Add support for cross-chain bridges
 // Fix contract reentrancy issues
+// Fix interoperability issues with other blockchains
