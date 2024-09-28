@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Enhance smart contract upgradeability
 // Optimize gas usage in smart contracts
+// Refactor reward pooling algorithm
