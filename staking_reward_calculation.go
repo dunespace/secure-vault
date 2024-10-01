@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Enhance governance contract flexibility
 // Integrate chain-agnostic oracles
+// Fix issue with multi-chain transactions
