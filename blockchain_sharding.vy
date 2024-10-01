@@ -5,3 +5,4 @@
 // Improve contract execution speed
 // Add support for multi-signature wallet contracts
 // Improve token burning mechanism
+// Update README with Go module examples
