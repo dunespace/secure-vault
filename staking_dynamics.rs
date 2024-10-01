@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add batch processing for transactions
 // Fix transaction replay issue
+// Add support for yield farming rewards
