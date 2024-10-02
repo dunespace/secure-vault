@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Enhance gas fee management
 // Add multi-chain transaction support
+// Refactor multi-asset token management
