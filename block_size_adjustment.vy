@@ -5,3 +5,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate Chainlink VRF for randomness
 // Improve error handling in transaction flow
+// Improve on-chain governance systems
