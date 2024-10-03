@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix bugs in multi-token systems
 // Improve contract verification speed
+// Optimize gas usage in contract execution
