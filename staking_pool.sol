@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Improve decentralized identity (DID) systems
 // Enhance smart contract upgradeability
+// Enhance test coverage for Rust module
