@@ -5,3 +5,4 @@
 // Fix bugs in decentralized exchange routing
 // Implement automatic transaction retries
 // Fix bugs in decentralized exchange routing
+// Refactor contract to use EIP-712 signatures
