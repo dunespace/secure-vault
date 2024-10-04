@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Optimize oracle data fetching mechanism
 // Improve staking logic for better rewards
+// Refactor validator reward system
