@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Add decentralized contract upgradeability
 // Refactor contract to use EIP-712 signatures
+// Fix Oracle communication delay issues
