@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Improve smart contract code modularity
 // Add support for ERC-721A tokens
+// Enhance security checks
