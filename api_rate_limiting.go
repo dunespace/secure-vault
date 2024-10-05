@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Integrate IPFS for storage
 // Add support for decentralized content distribution
+// Fix contract reentrancy issues
