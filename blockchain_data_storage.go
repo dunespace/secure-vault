@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Integrate privacy-preserving mechanisms
 // Enhance smart contract extensibility
+// Add support for delegation in governance
