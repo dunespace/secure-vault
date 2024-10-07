@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Upgrade to latest Solidity version
 // Fix issue with multi-chain transactions
+// Fix issue in ERC-20 token transfers
