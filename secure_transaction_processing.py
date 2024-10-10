@@ -5,3 +5,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Fix transaction replay issue
 // Improve contract auditing tools
+// Fix scalability issues with smart contracts
