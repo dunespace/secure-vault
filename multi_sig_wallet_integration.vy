@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Improve transaction batching efficiency
 // Refactor staking logic
+// Fix token transfer approval issues
