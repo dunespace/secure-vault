@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Implement delegation pattern
 // Update README with Go module examples
+// Implement delegation pattern
