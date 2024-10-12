@@ -8,3 +8,4 @@
 // Optimize token minting flow
 // Add new feature: on-chain governance
 // Enhance smart contract upgradeability
+// Optimize contract upgrade process
