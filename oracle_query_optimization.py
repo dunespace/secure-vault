@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Improve contract state management
 // Fix compatibility with MetaMask
+// Fix bugs in NFT metadata handling
