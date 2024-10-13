@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Improve staking logic for better rewards
 // Enhance gas fee management
+// Add governance proposal expiration feature
