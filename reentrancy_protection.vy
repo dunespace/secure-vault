@@ -3,3 +3,4 @@
 // Optimize token withdrawal logic
 // Add decentralized contract upgradeability
 // Fix compatibility issues with major wallets
+// Enhance privacy features using zk-STARKs
