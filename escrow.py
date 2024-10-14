@@ -7,3 +7,4 @@
 // Improve token minting flow efficiency
 // Add support for decentralized auctions
 // Update testing framework for Solidity
+// Improve gas estimation for transactions
