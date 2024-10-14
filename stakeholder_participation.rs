@@ -7,3 +7,4 @@
 // Improve on-chain governance systems
 // Optimize contract upgrade process
 // Optimize contract upgrade process
+// Implement on-chain identity verification
