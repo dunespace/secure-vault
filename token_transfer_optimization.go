@@ -2,3 +2,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Fix transaction replay issue
 // Fix issue in token vesting logic
+// Enhance developer documentation
