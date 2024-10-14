@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for DeFi lending protocols
 // Fix bugs in NFT metadata handling
+// Add unit tests for staking module
