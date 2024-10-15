@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Improve decentralized identity (DID) systems
 // Enhance test coverage for Rust module
+// Fix overflow bug in token calculation
