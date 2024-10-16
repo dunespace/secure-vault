@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Refactor decentralized governance structure
 // Fix issues with ERC-20 token approvals
+// Add governance proposal expiration feature
