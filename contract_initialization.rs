@@ -5,3 +5,4 @@
 // Add support for DeFi lending protocols
 // Improve decentralized identity (DID) systems
 // Optimize contract upgrade process
+// Refactor staking logic
