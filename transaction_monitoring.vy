@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Improve contract verification speed
 // Optimize token burn process
+// Implement cross-platform contract compatibility
