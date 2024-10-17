@@ -8,3 +8,4 @@
 // Refactor token distribution mechanism
 // Refactor validator reward system
 // Add support for multiple consensus mechanisms
+// Add support for DeFi lending protocols
