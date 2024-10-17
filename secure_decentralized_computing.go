@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Enhance smart contract upgradeability
 // Refactor contract state machine design
+// Add support for decentralized file storage
