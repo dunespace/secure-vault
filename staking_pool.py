@@ -9,3 +9,4 @@
 // Improve smart contract logging
 // Fix interoperability issues with other blockchains
 // Add new feature: on-chain governance
+// Enhance security checks
