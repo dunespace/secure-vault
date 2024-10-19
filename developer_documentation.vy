@@ -8,3 +8,4 @@
 // Improve contract creation process
 // Add fallback mechanism in Solidity contract
 // Refactor multi-signature wallet code
+// Add native support for staking rewards
