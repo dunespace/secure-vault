@@ -4,3 +4,4 @@
 // Add support for decentralized lending platforms
 // Fix issues with token transfer confirmations
 // Add multi-sig wallet functionality
+// Refactor token economics model
