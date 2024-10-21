@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Add support for decentralized credit scoring
 // Add support for fractional token ownership
+// Fix interoperability issues with other blockchains
