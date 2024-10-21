@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Improve security for token minting contracts
 // Enhance contract initialization process
+// Add governance proposal expiration feature
