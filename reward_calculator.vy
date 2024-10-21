@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Implement adaptive block size for Ethereum
 // Fix issues in token transfer logic
+// Add support for ERC-721A tokens
