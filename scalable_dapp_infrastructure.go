@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Improve smart contract logging
 // Improve multi-chain contract deployment
+// Fix memory leak in Rust smart contract
