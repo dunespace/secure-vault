@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Fix issues with token vesting contracts
 // Add multi-chain governance support
+// Refactor incentive structure in DeFi protocol
