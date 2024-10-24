@@ -6,3 +6,4 @@
 // Fix scalability issues with smart contracts
 // Optimize storage for off-chain data
 // Update testing framework for Solidity
+// Fix overflow bug in token calculation
