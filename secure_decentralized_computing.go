@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Refactor contract state machine design
 // Add support for decentralized file storage
+// Add support for ERC-1155 tokens
