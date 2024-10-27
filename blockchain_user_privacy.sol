@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Add non-fungible token (NFT) support
 // Refactor smart contract testing framework
+// Improve staking logic for better rewards
