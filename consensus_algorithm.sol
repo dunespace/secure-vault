@@ -11,3 +11,4 @@
 // Fix contract reentrancy issues
 // Optimize contract storage for gas reduction
 // Fix bugs in NFT metadata handling
+// Add support for fractional token ownership
