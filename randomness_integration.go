@@ -7,3 +7,4 @@
 // Add support for multi-signature wallet contracts
 // Integrate with external blockchain networks
 // Add support for decentralized content distribution
+// Enhance logging for better debugging
