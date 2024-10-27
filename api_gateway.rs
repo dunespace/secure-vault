@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in smart contracts
 // Add support for decentralized marketplaces
+// Add governance proposal expiration feature
