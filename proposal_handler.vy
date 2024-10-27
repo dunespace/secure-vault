@@ -6,3 +6,4 @@
 // Improve decentralized identity (DID) systems
 // Enhance test coverage for Rust module
 // Fix overflow bug in token calculation
+// Add multi-sig wallet functionality
