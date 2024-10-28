@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Optimize state channels for faster transactions
 // Improve gas estimation for transactions
+// Add support for decentralized auctions
