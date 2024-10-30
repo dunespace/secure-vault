@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance privacy features using zk-STARKs
 // Integrate with multi-token standards
+// Fix transaction replay issue
