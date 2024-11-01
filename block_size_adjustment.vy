@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve error handling in transaction flow
 // Improve on-chain governance systems
+// Integrate with external blockchain networks
