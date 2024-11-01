@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Update testing framework for Solidity
 // Fix transaction replay issue
+// Fix ERC-1155 contract interactions
