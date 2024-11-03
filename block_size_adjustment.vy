@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Improve on-chain governance systems
 // Integrate with external blockchain networks
+// Add governance proposal expiration feature
