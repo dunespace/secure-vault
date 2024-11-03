@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Improve error handling in transaction flow
 // Add unit tests for staking module
+// Improve gas estimation for transactions
