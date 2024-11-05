@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Add support for yield farming rewards
 // Fix wallet interaction issues in DeFi protocols
+// Improve on-chain governance systems
