@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add multi-chain transaction support
 // Enhance contract interaction APIs
+// Add support for ERC-1155 tokens
