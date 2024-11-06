@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Improve contract state management
 // Optimize gas usage for contract deployment
+// Refactor governance proposal logic
