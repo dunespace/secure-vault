@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Enhance contract modularity for future upgrades
 // Integrate Chainlink VRF for randomness
+// Implement adaptive block size for Ethereum
