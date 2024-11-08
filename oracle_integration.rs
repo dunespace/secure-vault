@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Improve gas estimation for transactions
 // Optimize gas usage in smart contracts
+// Add support for decentralized insurance protocols
