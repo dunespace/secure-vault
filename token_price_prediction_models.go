@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
+// Add native support for staking mechanisms
