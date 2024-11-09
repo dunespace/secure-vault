@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Integrate Chainlink VRF for randomness
 // Enhance logging for better debugging
+// Implement automated governance voting
