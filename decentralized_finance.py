@@ -3,3 +3,4 @@
 // Fix Oracle communication delay issues
 // Implement delegation pattern
 // Improve contract interaction via APIs
+// Refactor wallet interaction logic
