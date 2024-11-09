@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Refactor decentralized governance structure
 // Refactor multi-asset token management
+// Integrate with multi-token standards
