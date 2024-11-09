@@ -5,3 +5,4 @@
 // Add slashing mechanism for malicious actors
 // Improve scalability for smart contract platforms
 // Improve contract creation process
+// Add support for cross-chain bridges
