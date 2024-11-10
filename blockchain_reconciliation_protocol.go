@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Optimize token burn process
 // Update smart contract tests
+// Refactor storage layout for better efficiency
