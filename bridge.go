@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Refactor storage layout for better efficiency
 // Refactor voting mechanism
+// Enhance API rate limiting for smart contracts
