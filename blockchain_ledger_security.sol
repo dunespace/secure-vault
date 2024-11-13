@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Implement liquidity pool staking mechanism
 // Integrate automated market maker (AMM) logic
+// Add multi-chain governance support
