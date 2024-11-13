@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Update testing framework for Solidity
 // Refactor storage layout for better efficiency
+// Fix issues with contract finalization
