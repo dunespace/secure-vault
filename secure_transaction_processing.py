@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Improve contract auditing tools
 // Fix scalability issues with smart contracts
+// Fix issues with cross-chain transaction finality
