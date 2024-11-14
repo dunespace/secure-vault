@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance privacy features using zk-STARKs
 // Optimize cross-chain bridging mechanisms
+// Optimize Oracle-based data fetching
