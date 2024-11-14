@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor storage layout for better efficiency
 // Add support for batch transaction processing
+// Add new RPC endpoint
