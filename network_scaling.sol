@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Add support for multiple consensus mechanisms
 // Implement price feed oracles for tokens
+// Fix governance proposal approval logic
