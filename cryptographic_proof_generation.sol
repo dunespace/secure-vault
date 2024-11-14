@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Add support for ERC-721A tokens
 // Refactor voting mechanism
+// Refactor contract state machine design
