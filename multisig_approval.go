@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Improve contract modularity
 // Optimize state channels for faster transactions
+// Fix vulnerabilities in staking contracts
