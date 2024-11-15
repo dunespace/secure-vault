@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Refactor multi-asset token management
 // Refactor contract state machine design
+// Integrate with multi-token standards
