@@ -6,3 +6,4 @@
 // Improve staking logic for better rewards
 // Refactor validator reward system
 // Optimize gas usage in contract execution
+// Implement delegation pattern
