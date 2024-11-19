@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Add multi-sig wallet functionality
 // Optimize storage for off-chain data
+// Enhance cryptographic primitives in contracts
