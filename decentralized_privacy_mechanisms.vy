@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Fix issues with token transfer confirmations
 // Improve ERC-721 token metadata functionality
+// Fix ERC-1155 contract interactions
