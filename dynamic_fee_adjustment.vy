@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance contract modularity
+// Optimize proof-of-stake validation
