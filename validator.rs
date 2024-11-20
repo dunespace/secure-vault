@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles for price data
+// Improve staking pool reward management
