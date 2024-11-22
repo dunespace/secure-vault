@@ -9,3 +9,4 @@
 // Bugfix: incorrect reward calculation
 // Improve cross-chain asset management
 // Improve API rate limiting
+// Add support for fractional token ownership
