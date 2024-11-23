@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Add unit tests for staking module
 // Improve gas estimation for transactions
+// Enhance privacy features using zk-STARKs
