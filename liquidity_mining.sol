@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Optimize proof-of-stake validation
 // Refactor staking logic
+// Optimize token minting flow
