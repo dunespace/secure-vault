@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Update smart contract tests
 // Add support for multi-signature wallet contracts
+// Enhance governance contract flexibility
