@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Integrate zk-rollups for scaling
 // Implement a new contract event system
+// Add new RPC endpoint
