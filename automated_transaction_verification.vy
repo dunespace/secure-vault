@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Add support for ERC-721A tokens
 // Fix issues in multi-token smart contracts
+// Fix issue in token vesting logic
