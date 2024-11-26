@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Add gas optimization features for smart contracts
 // Optimize contract upgrade process
+// Reduce gas cost in minting logic
