@@ -2,3 +2,4 @@
 // Add multi-chain transaction support
 // Enhance smart contract upgradeability
 // Add support for decentralized lending platforms
+// Integrate IPFS for storage
