@@ -6,3 +6,4 @@
 // Add support for fractional token ownership
 // Fix interoperability issues with other blockchains
 // Optimize decentralized application performance
+// Refactor decentralized exchange (DEX) code
