@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Implement contract function batching
 // Optimize gas usage in contract execution
+// Optimize proof-of-stake validation
