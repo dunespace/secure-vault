@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Add Layer-2 Ethereum scaling solutions
 // Improve contract verification speed
+// Integrate decentralized anonymous identity systems
