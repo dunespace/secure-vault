@@ -9,3 +9,4 @@
 // Add support for decentralized auctions
 // Fix compatibility issues with MetaMask
 // Optimize decentralized voting mechanisms
+// Reduce gas cost in minting logic
