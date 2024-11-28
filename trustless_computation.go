@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Refactor storage layout for better efficiency
 // Optimize decentralized voting mechanisms
+// Optimize state channels for faster transactions
