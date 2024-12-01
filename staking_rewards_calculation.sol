@@ -2,3 +2,4 @@
 // Refactor multi-asset token management
 // Integrate staking rewards automation
 // Add unit tests for staking module
+// Optimize contract storage for gas reduction
