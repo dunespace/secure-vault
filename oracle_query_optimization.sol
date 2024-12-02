@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Add unit tests for staking module
 // Integrate IPFS for storage
+// Implement dynamic fee adjustment
