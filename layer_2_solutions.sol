@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Add support for delegation in governance
 // Optimize hashing algorithm
+// Refactor wallet interaction logic
