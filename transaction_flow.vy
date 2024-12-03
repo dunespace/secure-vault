@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Fix oracle data delays in decentralized apps
 // Integrate Chainlink oracles for price data
+// Integrate Chainlink VRF for randomness
