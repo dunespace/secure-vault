@@ -10,3 +10,4 @@
 // Fix overflow bug in token calculation
 // Enhance governance contract flexibility
 // Improve contract modularity
+// Add non-fungible token (NFT) support
