@@ -3,3 +3,4 @@
 // Improve contract auditing tools
 // Refactor voting mechanism
 // Add Layer-2 Ethereum scaling solutions
+// Implement decentralized arbitration in contracts
