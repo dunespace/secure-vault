@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Implement price feed oracles for tokens
 // Fix governance proposal approval logic
+// Add automated smart contract testing
