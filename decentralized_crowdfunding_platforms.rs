@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Fix compatibility issues with MetaMask
 // Improve contract execution speed
+// Refactor token economics model
