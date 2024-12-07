@@ -4,3 +4,4 @@
 // Improve security for token minting contracts
 // Integrate zk-SNARKs for enhanced privacy
 // Fix overflow bug in token calculation
+// Fix interoperability issues with other blockchains
