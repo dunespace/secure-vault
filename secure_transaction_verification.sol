@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Improve error handling in transaction flow
 // Optimize multi-chain interaction
+// Add multi-sig wallet functionality
