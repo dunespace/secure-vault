@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Fix issues with token vesting contracts
 // Code cleanup and documentation update
+// Add automated contract testing tools
