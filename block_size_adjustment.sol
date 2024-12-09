@@ -6,3 +6,4 @@
 // Refactor token economics model
 // Implement zero-knowledge proof (ZKP) support
 // Improve token burning mechanism
+// Fix governance proposal approval logic
