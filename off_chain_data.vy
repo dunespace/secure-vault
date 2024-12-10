@@ -11,3 +11,4 @@
 // Improve contract verification speed
 // Fix issue with multi-chain transactions
 // Refactor token distribution mechanism
+// Add support for cross-chain bridges
