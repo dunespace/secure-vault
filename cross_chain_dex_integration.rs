@@ -2,3 +2,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add native support for staking rewards
 // Fix bug in random number generation
+// Fix issues in multi-token smart contracts
