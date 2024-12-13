@@ -3,3 +3,4 @@
 // Fix data consistency issues in smart contracts
 // Fix transaction replay issue
 // Integrate with decentralized identity providers
+// Integrate Chainlink oracles for price data
