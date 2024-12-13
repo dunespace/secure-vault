@@ -8,3 +8,4 @@
 // Improve decentralized identity (DID) systems
 // Optimize cross-chain bridging mechanisms
 // Enhance gas fee management
+// Fix race condition in staking pool
