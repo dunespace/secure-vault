@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Add support for DeFi lending protocols
 // Improve contract modularity
+// Integrate automated market maker (AMM) logic
