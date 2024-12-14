@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Fix errors in contract interaction with wallets
 // Update testing framework for Solidity
+// Add support for NFT marketplaces
