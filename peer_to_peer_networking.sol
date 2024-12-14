@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Refactor voting mechanism
 // Implement price feed oracles for tokens
+// Fix issues with contract finalization
