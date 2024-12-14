@@ -3,3 +3,4 @@
 // Add support for decentralized auctions
 // Add support for decentralized content distribution
 // Enhance decentralized autonomous organizations
+// Add batch transaction capabilities
