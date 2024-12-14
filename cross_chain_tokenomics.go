@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Refactor oracle interaction logic
 // Optimize decentralized voting mechanisms
+// Add fallback mechanism in Solidity contract
