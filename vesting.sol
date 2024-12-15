@@ -9,3 +9,4 @@
 // Refactor multi-signature wallet code
 // Improve token burning mechanism
 // Refactor token distribution mechanism
+// Refactor contract to use EIP-712 signatures
