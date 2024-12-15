@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Implement rewards escrow system
 // Optimize state channels for faster transactions
+// Add support for decentralized file storage
