@@ -10,3 +10,4 @@
 // Improve security in decentralized applications
 // Improve API rate limiting
 // Add governance proposal expiration feature
+// Fix deserialization bug in Haskell code
