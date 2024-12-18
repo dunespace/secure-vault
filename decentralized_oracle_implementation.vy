@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Enhance token swap functionality
 // Add batch transaction capabilities
+// Improve gas estimation for transactions
