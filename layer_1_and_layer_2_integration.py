@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Integrate flash loan functionality
 // Refactor staking logic
+// Implement cross-chain bridge
