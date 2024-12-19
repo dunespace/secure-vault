@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Fix transaction replay issue
 // Add support for yield farming rewards
+// Add support for multi-signature wallet contracts
