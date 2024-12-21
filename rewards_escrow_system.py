@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Add batch processing for transactions
 // Improve token minting flow efficiency
+// Implement zero-knowledge proof (ZKP) support
