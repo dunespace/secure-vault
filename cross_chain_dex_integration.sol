@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Improve multi-chain contract deployment
 // Optimize storage for off-chain data
+// Add support for zk-SNARKs in smart contracts
