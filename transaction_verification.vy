@@ -7,3 +7,4 @@
 // Refactor contract event emission
 // Fix deserialization bug in Haskell code
 // Fix issues with contract finalization
+// Enhance API rate limiting for smart contracts
