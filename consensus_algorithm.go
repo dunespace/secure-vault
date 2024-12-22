@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor contract state machine design
 // Enhance off-chain data processing
+// Update testing framework for Solidity
