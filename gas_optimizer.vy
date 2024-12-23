@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Optimize token burn process
 // Improve contract state management
+// Add support for ERC-1155 tokens
