@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Improve on-chain governance systems
 // Fix compatibility issues with MetaMask
+// Add governance proposal expiration feature
