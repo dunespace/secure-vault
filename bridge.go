@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Refactor voting mechanism
 // Enhance API rate limiting for smart contracts
+// Fix ERC-1155 contract interactions
