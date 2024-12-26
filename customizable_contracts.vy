@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Add support for multi-signature wallet contracts
 // Update README with Go module examples
+// Fix issue in token vesting logic
