@@ -10,3 +10,4 @@
 // Fix bugs in multi-token systems
 // Improve contract execution performance
 // Fix compatibility issues with MetaMask
+// Improve staking logic for better rewards
