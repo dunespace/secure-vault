@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Optimize storage for off-chain data
 // Add support for zk-SNARKs in smart contracts
+// Integrate Chainlink oracles for price data
