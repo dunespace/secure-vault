@@ -7,3 +7,4 @@
 // Implement reward distribution feature
 // Improve decentralized lending contract flexibility
 // Add support for fractional token ownership
+// Fix scalability issues with smart contracts
