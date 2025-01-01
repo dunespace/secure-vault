@@ -3,3 +3,4 @@
 // Refactor token economics model
 // Add support for yield farming rewards
 // Fix compatibility issues with MetaMask
+// Add multi-sig wallet functionality
