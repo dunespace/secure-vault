@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Optimize multi-chain interaction
 // Add multi-sig wallet functionality
+// Add security checks for contract deployment
