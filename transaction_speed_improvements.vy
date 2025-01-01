@@ -2,3 +2,4 @@
 // Improve smart contract logging
 // Integrate Chainlink oracles for price data
 // Fix contract reentrancy issues
+// Refactor cross-chain communication layer
