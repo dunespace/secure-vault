@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Fix transaction replay issue
 // Fix issues with contract finalization
+// Integrate IPFS for storage
