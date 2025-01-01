@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Integrate Chainlink VRF for randomness
 // Implement on-chain identity verification
+// Integrate decentralized prediction models
