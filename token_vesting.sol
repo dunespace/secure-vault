@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add support for multiple consensus mechanisms
 // Add support for decentralized auctions
+// Improve decentralized identity (DID) systems
