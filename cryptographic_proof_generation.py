@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate flash loan functionality
 // Optimize contract upgrade process
+// Add batch processing for transactions
