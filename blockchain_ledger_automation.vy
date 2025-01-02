@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix race condition in staking pool
 // Fix deserialization bug in Haskell code
+// Add support for ERC-1155 tokens
