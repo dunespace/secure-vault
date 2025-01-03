@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement on-chain identity verification
 // Integrate decentralized prediction models
+// Implement contract function batching
