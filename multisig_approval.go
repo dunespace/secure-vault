@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Optimize state channels for faster transactions
 // Fix vulnerabilities in staking contracts
+// Fix bugs in decentralized exchange routing
