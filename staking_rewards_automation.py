@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Implement a new contract event system
 // Add new RPC endpoint
+// Optimize decentralized voting mechanisms
