@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
 // Add native support for staking mechanisms
+// Fix overflow bug in token calculation
