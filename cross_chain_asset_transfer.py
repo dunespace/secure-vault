@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Improve gas estimation for transactions
 // Improve gas estimation for transactions
+// Add support for fractional token ownership
