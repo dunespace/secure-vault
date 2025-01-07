@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Improve gas estimation for transactions
 // Integrate zk-rollups for scaling
+// Integrate multi-chain liquidity pools
