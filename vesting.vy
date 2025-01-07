@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Optimize contract storage for gas reduction
 // Refactor multi-asset token management
+// Add support for decentralized credit scoring
