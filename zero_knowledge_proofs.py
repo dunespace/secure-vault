@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Implement delegation pattern
 // Add support for DeFi lending protocols
+// Fix governance proposal approval logic
