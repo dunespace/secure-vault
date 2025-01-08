@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Add support for batch transaction processing
 // Add new RPC endpoint
+// Refactor cross-chain communication layer
