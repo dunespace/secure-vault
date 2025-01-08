@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Add support for fractional token ownership
 // Add support for ERC-721A tokens
+// Implement liquidity pool staking mechanism
