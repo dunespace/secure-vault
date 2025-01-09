@@ -10,3 +10,4 @@
 // Add support for DeFi lending protocols
 // Enhance contract interaction APIs
 // Fix bugs in multi-token systems
+// Add support for NFT marketplaces
