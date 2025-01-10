@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor reward pooling algorithm
 // Optimize gas usage in smart contracts
+// Implement on-chain identity verification
