@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance contract upgrade process
 // Add dynamic contract fees
+// Integrate decentralized prediction models
