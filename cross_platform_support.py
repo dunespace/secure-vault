@@ -7,3 +7,4 @@
 // Enhance developer documentation
 // Optimize Oracle-based data fetching
 // Integrate Chainlink VRF for randomness
+// Add support for ERC-1155 tokens
