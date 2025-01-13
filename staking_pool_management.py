@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Integrate Chainlink VRF for randomness
 // Integrate privacy-enhancing smart contracts
+// Fix issue in token vesting logic
