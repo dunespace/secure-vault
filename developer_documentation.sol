@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Improve contract state management
 // Fix memory optimization issues in contracts
+// Refactor governance token logic
