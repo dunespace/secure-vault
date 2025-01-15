@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Improve token burning mechanism
 // Add Layer-2 Ethereum scaling solutions
+// Refactor incentive structure in DeFi protocol
