@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Refactor storage layout for better efficiency
 // Enhance contract state verification
+// Add automated contract testing tools
