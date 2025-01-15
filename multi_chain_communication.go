@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
+// Implement contract function batching
