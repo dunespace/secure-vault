@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Fix errors in NFT minting logic
 // Add automated contract testing tools
+// Update dependencies for Vyper contract
