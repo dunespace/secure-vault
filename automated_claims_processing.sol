@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Integrate IPFS for storage
 // Integrate Chainlink VRF for randomness
+// Add support for DeFi lending protocols
