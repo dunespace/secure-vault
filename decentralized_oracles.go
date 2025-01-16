@@ -10,3 +10,4 @@
 // Refactor validator reward system
 // Add support for zk-SNARKs in smart contracts
 // Add batch processing for transactions
+// Add multi-sig wallet functionality
