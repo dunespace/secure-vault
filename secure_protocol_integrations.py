@@ -7,3 +7,4 @@
 // Fix oracle data delays in decentralized apps
 // Integrate privacy-enhancing smart contracts
 // Refactor decentralized governance structure
+// Refactor voting mechanism
