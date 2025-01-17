@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve error handling in transaction flow
 // Integrate with multi-token standards
+// Fix overflow bug in token calculation
