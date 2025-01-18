@@ -11,3 +11,4 @@
 // Optimize gas cost in function execution
 // Integrate with external DeFi protocols
 // Refactor wallet interaction logic
+// Add support for ERC-721A tokens
