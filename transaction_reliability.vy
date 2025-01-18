@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Add dynamic contract fees
 // Refactor governance token logic
+// Fix ERC-721 contract issues with transfers
