@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Integrate IPFS for storage
 // Add new RPC endpoint
+// Improve transaction batching efficiency
