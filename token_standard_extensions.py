@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Enhance security checks
 // Integrate with decentralized identity providers
+// Integrate zk-rollups for scaling
