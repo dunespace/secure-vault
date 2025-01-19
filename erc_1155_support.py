@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Add support for multiple consensus mechanisms
 // Optimize hashing algorithm
+// Add support for multiple consensus mechanisms
