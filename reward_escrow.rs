@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix interoperability issues with other blockchains
 // Enhance decentralized autonomous governance
+// Refactor incentive structure in DeFi protocol
