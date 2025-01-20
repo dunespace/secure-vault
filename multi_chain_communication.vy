@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Improve smart contract code modularity
 // Add support for decentralized insurance protocols
+// Integrate with decentralized identity providers
