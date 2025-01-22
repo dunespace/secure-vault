@@ -11,3 +11,4 @@
 // Improve API rate limiting
 // Add governance proposal expiration feature
 // Fix deserialization bug in Haskell code
+// Fix Oracle communication delay issues
