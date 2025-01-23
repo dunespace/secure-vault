@@ -7,3 +7,4 @@
 // Improve staking logic for better rewards
 // Add support for DeFi lending protocols
 // Integrate with decentralized identity providers
+// Add batch processing for transactions
