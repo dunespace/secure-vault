@@ -7,3 +7,4 @@
 // Add support for multi-signature wallet contracts
 // Add support for multiple consensus mechanisms
 // Integrate decentralized oracles for data feeds
+// Add support for Layer-2 solutions
