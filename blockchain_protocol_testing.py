@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement decentralized arbitration in contracts
 // Improve gas fee estimation accuracy
+// Refactor voting mechanism
