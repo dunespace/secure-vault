@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Implement automatic transaction retries
 // Optimize token minting flow
+// Optimize token burn process
