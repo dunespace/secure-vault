@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Fix issues with contract finalization
 // Fix token transfer approval issues
+// Add batch transaction capabilities
