@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Refactor voting mechanism
 // Refactor oracle interaction logic
+// Enhance smart contract extensibility
