@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Integrate with external DeFi protocols
 // Implement delegation pattern
+// Fix oracle data delays in decentralized apps
