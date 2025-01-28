@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Code cleanup and documentation update
 // Add automated contract testing tools
+// Fix issue in ERC-20 token transfers
