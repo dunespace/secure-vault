@@ -10,3 +10,4 @@
 // Optimize contract upgrade process
 // Reduce gas cost in minting logic
 // Fix transaction replay issue
+// Fix type mismatch in Haskell smart contract
