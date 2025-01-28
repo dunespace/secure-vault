@@ -8,3 +8,4 @@
 // Optimize multi-chain interaction
 // Fix bugs in decentralized exchange routing
 // Fix vulnerabilities in staking contracts
+// Refactor reward pooling algorithm
