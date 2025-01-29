@@ -13,3 +13,4 @@
 // Fix governance proposal approval logic
 // Add support for decentralized lending platforms
 // Improve token burning mechanism
+// Add slashing mechanism for malicious actors
