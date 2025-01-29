@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Fix deserialization bug in Haskell code
 // Improve gas estimation for transactions
+// Add dynamic contract fees
