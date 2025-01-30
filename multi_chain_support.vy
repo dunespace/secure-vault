@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Update testing framework for Solidity
 // Fix overflow bug in token calculation
+// Implement on-chain identity verification
