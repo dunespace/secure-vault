@@ -6,3 +6,4 @@
 // Implement a new contract event system
 // Add new RPC endpoint
 // Optimize decentralized voting mechanisms
+// Add support for DeFi lending protocols
