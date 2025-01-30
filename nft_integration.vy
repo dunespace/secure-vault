@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Optimize gas cost in function execution
 // Fix issues in token transfer logic
+// Enhance smart contract compatibility
