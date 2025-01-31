@@ -11,3 +11,4 @@
 // Add support for ERC-1155 tokens
 // Add Layer-2 Ethereum scaling solutions
 // Improve staking pool reward management
+// Add support for ERC-1155 tokens
