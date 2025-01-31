@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance contract initialization process
 // Integrate decentralized anonymous identity systems
+// Add batch transaction capabilities
