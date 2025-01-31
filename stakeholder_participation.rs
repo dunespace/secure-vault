@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Optimize contract upgrade process
 // Implement on-chain identity verification
+// Fix deserialization bug in Haskell code
