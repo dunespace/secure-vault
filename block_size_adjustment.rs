@@ -8,3 +8,4 @@
 // Add security checks for contract deployment
 // Fix deserialization bug in Haskell code
 // Fix token transfer approval issues
+// Integrate flash loan functionality
