@@ -7,3 +7,4 @@
 // Fix data consistency issues in smart contracts
 // Add support for ERC-721A tokens
 // Refactor oracle interaction logic
+// Add native support for staking rewards
