@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Add new feature: on-chain governance
 // Implement on-chain identity verification
+// Refactor incentive structure in DeFi protocol
