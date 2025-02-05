@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Refactor validator reward system
 // Integrate zk-SNARKs for enhanced privacy
+// Optimize token minting flow
