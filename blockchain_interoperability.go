@@ -7,3 +7,4 @@
 // Refactor storage layout for better efficiency
 // Enhance contract modularity
 // Implement delegation pattern
+// Optimize storage for off-chain data
