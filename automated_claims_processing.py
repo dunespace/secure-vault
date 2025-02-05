@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Add automated token buyback mechanism
 // Improve token burning mechanism
+// Refactor decentralized governance structure
